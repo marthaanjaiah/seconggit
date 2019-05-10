@@ -8,5 +8,6 @@ public void add(){
 	int c;
 	c=a+b;
 	System.out.println(c);
+	System.out.println(a-b);
 }
 }
